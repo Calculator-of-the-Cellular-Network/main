@@ -63,6 +63,6 @@ export const uk = {
     negativeRoot: 'Під коренем опинилося від\'ємне число. Спробуйте збільшити значення ймовірності блокування виклику чи час погіршення'
   },
   downloads: {
-    algorithmUrl: '/algorithm-uk.pdf'
+    algorithmUrl: './algorithm-uk.pdf'
   }
 };
