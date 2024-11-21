@@ -63,6 +63,6 @@ export const en = {
     negativeRoot: 'Negative value under square root. Try increase the blocking probability value or deterioration time'
   },
   downloads: {
-    algorithmUrl: '/algorithm-en.pdf'
+    algorithmUrl: './algorithm-en.pdf'
   }
 };
